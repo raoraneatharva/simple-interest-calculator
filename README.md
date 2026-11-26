@@ -24,3 +24,7 @@ For principal 1000, rate 5%, and time 2 years, the simple interest is 100.00.
 ## License
 
 This project is licensed under the Apache License, Version 2.0.
+
+## Learning Note
+
+This script demonstrates a simple interest calculation using Bash and awk.
